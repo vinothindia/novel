@@ -8,8 +8,8 @@ export default function Page() {
     <div className="flex min-h-screen flex-col items-center sm:px-5 sm:pt-[calc(20vh)]">
       <Image
       src="/digrilogonew.png"
-      width={500}
-      height={500}
+      width={50}
+      height={50}
       alt="Picture of the author"
      />
       <h1>Upgrade. Upskill. Upsell.</h1>
