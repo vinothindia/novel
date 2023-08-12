@@ -5,7 +5,7 @@ import Menu from "./menu";
 export default function Page() {
   return (
     <div className="flex min-h-screen flex-col items-center sm:px-5 sm:pt-[calc(20vh)]">
-      <span style="color:darkolivegreen;font-weight:bold">Upgrade. Upskill. Upsell.</span>
+      <h1>Upgrade. Upskill. Upsell.</h1>
       <a
         href="/github"
         target="_blank"
